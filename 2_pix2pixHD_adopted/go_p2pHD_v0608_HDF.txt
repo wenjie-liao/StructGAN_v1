@@ -1,0 +1,2 @@
+python train.py   --label_nc 0 --tf_log  --lambda_feat 10  --n_clusters 10  --n_downsample_global 1  --n_blocks_global 6
+python test.py  --n_downsample_global 1  --n_blocks_global 6

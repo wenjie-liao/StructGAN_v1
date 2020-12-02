@@ -1,0 +1,5 @@
+mean value: 0.477323
+std value: 0.010612
+
+{'img': 'test (1)_synthesized_image.png', 'ratio': 0.46671049267740405}
+{'img': 'test (2)_synthesized_image.png', 'ratio': 0.48793537185983066}

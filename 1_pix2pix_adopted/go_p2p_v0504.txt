@@ -1,0 +1,6 @@
+﻿tool to make dataset
+python tools/process.py  --input_dir photos/a --operation resize  --output_dir photos/a_resized  --pad
+python tools/process.py  --input_dir photos/b --operation resize  --output_dir photos/b_resized  --pad
+python tools/process.py  --input_dir photos/a_resized  --b_dir photos/b_resized  --operation combine  --output_dir photos/combined
+
+python pix2pix_Ebyliaowj.py  --mode train  --output_dir train  --max_epochs 400  --input_dir photos/train  --which_direction AtoB

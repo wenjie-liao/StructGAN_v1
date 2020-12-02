@@ -1,0 +1,1 @@
+python pix2pix_Ebyliaowj.py  --mode test  --output_dir test  --input_dir photos/test  --checkpoint train
