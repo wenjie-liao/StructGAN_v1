@@ -6,3 +6,7 @@ The preprint manuscript of our study have been online, available at https://www.
 
 
 ![image](https://github.com/wenjie-liao/StructGAN_v1/blob/master/StructGAN_v1.jpg)
+
+
+Acknowledgments
+This code borrows heavily from https://github.com/phillipi/pix2pix and https://github.com/NVIDIA/pix2pixHD.
