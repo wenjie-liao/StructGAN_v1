@@ -1,8 +1,7 @@
 # StructGAN_v1
-Automated Structural Design of Shear Wall Residential Buildings Using GAN-Based Machine Learning Algorithm
+Automated structural design of shear wall residential buildings using generative adversarial networks
 
-The preprint manuscript of our study have been online, available at https://www.researchsquare.com/article/rs-84863/v1
-
+Our paper has been published online: https://www.sciencedirect.com/science/article/pii/S0926580521003824
 
 
 ![image](https://github.com/wenjie-liao/StructGAN_v1/blob/master/StructGAN_v1.jpg)
